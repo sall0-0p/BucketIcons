@@ -1,0 +1,148 @@
+multi-server: false
+servers:
+  mine:
+    symbol: "⠂"
+  farm:
+    symbol: "⠁"
+
+icons:
+  # Staff
+  techadmin:
+    symbol: "⠃"
+    priority: 54
+  curator:
+    symbol: "⠄"
+    priority: 53
+  admin:
+    symbol: "⠅"
+    priority: 52
+  moder:
+    symbol: "⠆"
+    priority: 51
+  helper:
+    symbol: "⠇"
+    priority: 50
+
+  # Governemnt
+  president:
+    symbol: "⠈"
+    priority: 11
+  sudya:
+    symbol: "⠉"
+    priority: 2
+  guard:
+    symbol: "⠊"
+    priority: 2
+
+  # General
+  default:
+    symbol: "⠋"
+    priority: 1
+  hero:
+    symbol: "⠌"
+    priority: 10
+  superhero:
+    symbol: "⠍"
+    priority: 10
+  buster:
+    symbol: "⠎"
+    priority: 9
+
+  # Custom page 1
+  applepie:
+    symbol: "⠏"
+    priority: 10
+  cookie:
+    symbol: "⠐"
+    priority: 10
+  baguette:
+    symbol: "⠑"
+    priority: 10
+  coffee:
+    symbol: "⠒"
+    priority: 10
+  chocolate:
+    symbol: "⠓"
+    priority: 10
+  books:
+    symbol: "⠔"
+    priority: 10
+  fire:
+    symbol: "⠕"
+    priority: 10
+  horns:
+    symbol: "⠖"
+    priority: 10
+  snowflakes:
+    symbol: "⠗"
+    priority: 10
+  mushroom:
+    symbol: "⠘"
+    priority: 10
+  warden:
+    symbol: "⠙"
+    priority: 10
+  pikachu:
+    symbol: "⠚"
+    priority: 10
+
+  # Custom Page 2
+  flower:
+    symbol: "⠛"
+    priority: 10
+  akso:
+    symbol: "⠜"
+    priority: 10
+  fish:
+    symbol: "⠝"
+    priority: 10
+  beach:
+    symbol: "⠞"
+    priority: 10
+  pepe:
+    symbol: "⠟"
+    priority: 10
+  amethysts:
+    symbol: "⠠"
+    priority: 10
+  toad:
+    symbol: "⠡"
+    priority: 10
+  whiteheart:
+    symbol: "⠢"
+    priority: 10
+  flag_black_orange_yellow:
+    symbol: "⠣"
+    priority: 10
+  flag_red_white:
+    symbol: "⠤"
+    priority: 10
+  brown_mushrooms:
+    symbol: "⠥"
+    priority: 10
+  sushi:
+    symbol: "⠦"
+    priority: 10
+
+  # Custom Page 3
+  lantern:
+    symbol: "⠧"
+    priority: 10
+  planet:
+    symbol: "⠨"
+    priority: 10
+  hedgehog:
+    symbol: "⠩"
+    priority: 10
+  hell:
+    symbol: "⠪"
+    priority: 10
+  dog:
+    symbol: "⠫"
+    priority: 10
+  yin_yang:
+    symbol: "⠬"
+    priority: 10
+  jackpot_777:
+    symbol: "⠭"
+    priority: 10

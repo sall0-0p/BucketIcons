@@ -1,0 +1,5 @@
+give_success: "<color:#66AC7E>| Successfully gave icon to the player!"
+remove_success: "<color:#66AC7E>| Successfully removed icon from the player!"
+swap_success: "<color:#66AC7E>| You successfully swapped your icon!"
+swap_success_other: "<color:#66AC7E>| You successfully swapped icon of another player!"
+reloaded: "<color:#66AC7E>| Plugin was reloaded!"

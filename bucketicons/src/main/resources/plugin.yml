@@ -1,0 +1,18 @@
+main: com.bucketicons.Plugin
+name: BucketIcons
+version: 1.0.0
+api-version: 1.18
+commands:
+  bucketicons:
+    description: "Main command of a plugin!"
+    usage: /you fool
+    aliases:
+      - bi
+
+permissions:
+  bucketicons.give:
+    description: "Description will be added later!"
+  bucketicons.remove:
+    description: "Description will be added later!"
+  bucketicons.swap:
+    description: "Description will be added later!"
